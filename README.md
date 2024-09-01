@@ -1,16 +1,16 @@
-## Hi, im Hassan
+<h1>Hi, I'm Hassan! <br/><a href="https://github.com/MHSARS">Programmer</a>, <a href="www.linkedin.com/in/muhammad-hassan-siddique-33907a320">University Student</a>
+  
+<h2>👨‍💻 Python Projects:</h2>
 
-<!--
-**MHSARS/MHSARS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Python Based Content Aggregator</b>
+  - [Python Code](https://github.com/MHSARS/Python-Based-Content-Aggregator)
+- <b>Basic Slot Machine</b>
+  - [Python Code](https://github.com/MHSARS/Basic-Slot-Machine) 
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Java Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Robot Dance</b>
+  - [Java Code](https://github.com/MHSARS/Robot-Dance)
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
