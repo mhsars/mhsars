@@ -14,5 +14,7 @@
 - <b>2D Adventure Game</b>
   - [Java Code](https://github.com/MHSARS/2D-Adventrue-Game)
 
+ <h2>👨‍💻 HTML, CSS, Javascript Projects:</h2>
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+ - <b>Intell AI dalle clone</b>
+  - [React.js code](https://github.com/MHSARS/Intell-AI-dalle-clone)
