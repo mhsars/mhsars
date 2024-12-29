@@ -16,5 +16,5 @@
 
  <h2>👨‍💻 HTML, CSS, Javascript Projects:</h2>
 
- - <b>Intell AI dalle clone</b>
+- <b>Intell AI dalle clone</b>
   - [React.js code](https://github.com/MHSARS/Intell-AI-dalle-clone)
