@@ -5,8 +5,10 @@
 - <b>Python Based Content Aggregator</b>
   - [Python Code](https://github.com/MHSARS/Python-Based-Content-Aggregator)
 - <b>Basic Slot Machine</b>
-  - [Python Code](https://github.com/MHSARS/Basic-Slot-Machine) 
-
+  - [Python Code](https://github.com/MHSARS/Basic-Slot-Machine)
+- <b>Intell Jarvis clone V1</b>
+  - [Python Code](https://github.com/MHSARS/Intell-Jarvis-clone-V1)
+    
 <h2>👨‍💻 Java Projects:</h2>
 
 - <b>Robot Dance</b>
